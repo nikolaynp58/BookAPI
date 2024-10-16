@@ -38,15 +38,7 @@ This project is a simple **Book API** that allows users to create, retrieve, upd
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
-
-- [Go](https://golang.org/doc/install) (version 1.16 or later)
-- [MySQL](https://dev.mysql.com/downloads/mysql/)
-
----
-Here’s a cleaner and more structured `.md` (Markdown) format of your content:
-
-```md
+```
 ## Project Setup
 
 ### 1. Environment Variables
@@ -157,5 +149,3 @@ go run cmd/main.go
 - **URL:** `http://localhost:8080/books/{id}`
 - **Method:** `DELETE`
 ```
-
-This structure adds clarity and proper formatting to your documentation. Each section has clear headings, code blocks, and consistent styling.
